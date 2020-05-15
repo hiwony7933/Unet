@@ -1,5 +1,15 @@
-U_D_prediction : Unet, Discriminator load model prediction
+### 1. Unet_MNIST 
 
-Unet_MNIST_random : Unet random broken MNIST train
+* Dataset : random broken MNIST
+* anomaly detection
 
-Unet_MNIST_prediction : Unet load model perdiction
+### 2. Unet_MNIST_prediction 
+
+* Unet load model perdiction
+* anomaly detection
+
+### 3. U_D_prediction 
+
+* Unet, Discriminator load model prediction
+  * Unet Model 
+  * DCGAN's Discriminatro Model 
