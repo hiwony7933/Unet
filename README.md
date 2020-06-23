@@ -1,15 +1,15 @@
-### 1. Unet_MNIST 
+### 1. Unet - MNIST_anomaly_detection 
 
-* Dataset : random broken MNIST
-* anomaly detection
+* Dataset : Random broken MNIST (train, test)
 
-### 2. Unet_MNIST_prediction 
+<img src="img/image-20200623102849935.png" alt="image-20200623102849935" style="zoom:50%;" />
 
-* Unet load model perdiction
-* anomaly detection
+### 2. prediction
 
-### 3. U_D_prediction 
+* gray scale의 MNIST를 RGB 차원으로 변경 하고 RED 값만 255로 수정함.
+<img src="img/image-20200623102950356.png" alt="image-20200623102950356" style="zoom:50%;" />
 
-* Unet, Discriminator load model prediction
-  * Unet Model 
-  * DCGAN's Discriminatro Model 
+
+* gray scale 으로만 작성
+<img src="img/image-20200623103010244.png" alt="image-20200623103010244" style="zoom:50%;" />
+
